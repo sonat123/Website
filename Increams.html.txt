@@ -1,0 +1,216 @@
+<html>
+<head>
+     <title>sona icecreams</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+     <!-- jQuery library -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+
+
+     <!-- Latest compiled JavaScript -->
+     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+     <style>
+     body{ 
+         margin:0;
+         background-image:url('https://images4.alphacoders.com/101/thumb-1920-1012961.jpg');
+         background-repeat:repeat;
+         background-attachment:fixed;
+         background-size:cover;
+          
+ }
+</style>
+
+</head>
+<body>
+     <header class="header">
+     <nav class="navbar navbar-style">
+       <div class="container">
+             <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#micon">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                </button>
+              <a href=""><img class="logo" src="https://tse1.mm.bing.net/th?id=OIP.pWe5E6mu_Vo-QItJ0s2OYQHaFj&pid=Api&P=0&w=201&h=151"></a>
+             </div>
+             <div class="collapse navbar-collapse" id="micon">
+             <ul class="nav navbar-nav navbar-right">
+             <li><a href="#">Home</a></li>
+             <li><a href="">About</a></li>
+             <li><a href="">Product</a></li>
+             <li><a href="">Store locator</a></li>
+             <li><a href="">contact us</a></li>
+             </ul>
+         </div>
+       
+         </div>
+        </nav>
+   
+          <div class="container">
+          <div class="row">
+       
+                <div class="col-sn-6 banner-info">
+                    <h1 class="font"><b>ICE CREAMS</b></h1>
+                    <p class="big-text">The world of YUMM!!</p>
+                    <p class="font1">Let's hangout together....</p>
+                    <a class="btn btn-first" href="file:///C:/Users/SONA/Desktop/New%20folder/RECIPE3.html">Recipes</a>
+                     <a class="btn btn-first" href="a">Buy now</a>
+
+
+                </div>
+                
+
+</div>
+</div>
+<br><br><br>
+<br><br><br><br>
+
+<div class="container"> 
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item active">
+        <img src="http://wallpapersdsc.net/wp-content/uploads/2015/11/Ice_Cream_Iphone_wallpapers14.jpg" alt="ice-cream1" style="width:100%;">
+      </div>
+
+      <div class="item">
+        <img src="https://images6.alphacoders.com/390/390999.jpg" alt="ice-cream2" style="width:100%;">
+      </div>
+    
+      <div class="item">
+        <img src="https://images3.alphacoders.com/660/660202.jpg" alt="ice-cream3" style="width:100%;">
+      </div>
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myice-cream" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCreamy" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
+<br><br><br>
+
+<center><p style="font-family:cursive;color:darkgreen;font-size:40px;marginleft:20px;">
+SPECIAL FLAVORS</p>
+</center><br>
+<style>
+ul.a{
+list-style-type: square;
+color:black;
+font-family:Impact;
+}
+ul.b{
+list-style: square;
+color:maroon;
+}
+</style>
+</body>
+</head>
+<p>
+<h3><ul class="a">
+   <center><img src="https://thecookbook.pk/wp-content/uploads/2019/01/Walnut-Fig-Ice-Cream-1300x866.jpg" width="600" height="300"></center>
+   <center><bold><h2>FIG ICECREAM</h2></center></bold>
+   <center><bold><li>"This ice cream is quite a treat! Not something you'd find out anywhere"</li></font></center></bold>
+     </ul></p></h3><br><b><br>
+<h3><ul class="a">
+    <center><img src="http://onelittleproject.com/wp-content/uploads/2015/04/Blueberry-Recipes-750x469.jpg" width="600" height="300"></center>
+    <center><bold><h2>BLUEBERRY CHEESE CREAM</h2></center></bold>
+     <center><bold><li>Graham cracker crumbs and vanilla pudding get churned with fresh blueberries and cream to make this rich. </center></bold></li>
+       
+    </h3><br><br>
+<h3><ul class="a">
+    <center><img src="https://media-cdn.tripadvisor.com/media/photo-s/12/61/89/81/sizzling-brownie.jpg" width="600" height="300"></center>
+    <center><bold><h2>SIZZLING BROWNIE</h2></center></bold>
+     <center><bold><li>"Life is short, eat brownies first..."</center></bold></li>
+       
+    </h3>
+<br><br>
+<!--::reservation::-->
+  <section id="reservation" class="py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-5">
+                <div class="section-title">
+                    <h2>Book A Table</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="reservation-form">
+                    <form>
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <input type="email" class="form-control" 
+                                id="inputEmail4" placeholder="Name *">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input type="password" class="form-control" 
+                                id="inputPassword4"
+                                    placeholder="Email address *">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <select class="form-control" id="Select">
+                                    <option value="1" selected>Persons *</option>
+                                    <option value="2">Number of guests 1</option>
+                                    <option value="3">Number of guests 2</option>
+                                    <option value="4">Number of guests 3</option>
+                                    <option value="5">Number of guests 4</option>
+                                </select>
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input type="text" class="form-control" id="pnone" 
+                                placeholder="Phone number *">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <div class="input-group date">
+                                    <input id="datepicker" type="text"
+                                     class="form-control" placeholder="Date *" />
+                                </div>
+                            </div>
+                            <div class="form-group col-md-6">
+                                <select class="form-control" id="Select2">
+                                    <option value="" selected>Time *</option>
+                                    <option value="1">8 AM TO 10AM</option>
+                                    <option value="1">10 AM TO 12PM</option>
+                                    <option value="1">12PM TO 2PM</option>
+                                    <option value="1">2PM TO 4PM</option>
+                                    <option value="1">4PM TO 6PM</option>
+                                    <option value="1">6PM TO 8PM</option>
+                                    <option value="1">4PM TO 10PM</option>
+                                    <option value="1">10PM TO 12PM</option>
+                                </select>
+                            </div>
+                            <div class="form-group col-md-12">
+                            <textarea class="form-control" id="Textarea" rows="4"
+                              placeholder="Your Message *"></textarea>
+                            </div>
+                        </div>
+                        <div class="regerv_btn">
+                            <a href="#" class="btn-reserve">Book A Table</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--::regervation_part end::-->
+
+
+</body>
+</html>

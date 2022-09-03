@@ -1,0 +1,257 @@
+<html> 
+
+   <head> 
+
+      <title>webpage</title> 
+      <center><h1 style="color:white;font-size:40px;font-style:cursive;">RECIPES</center></h1>
+      <style type=text/css>
+          body{
+             magin:0;
+             background-image:url('https://c.pxhere.com/images/18/ea/7bbeb9a2551e13c43f18e9586131-1433393.jpg!d');
+             background-repeat:no-repeat;
+             background-attachment: fixed;  
+             background-size: cover;
+          }
+
+         .leftdiv 
+
+         { 
+         float:left;
+         background-color:#A9A9A9;
+         padding: 1%;
+         height:500px; 
+         width:300px;
+         margin-left:120px;
+         margin-bottom:40px;
+         margin-top:20px;
+         margin-right:30px;
+         border-radius:20px;
+         color:black;
+
+         } 
+ 
+         .middlediv 
+
+         {  
+         float:left;
+         background-color:#A9A9A9;
+         padding:1%;
+         height:500px; 
+         width:300px;
+         margin-left:10px;
+         margin-bottom:40px;
+         margin-top:20px;
+         margin-right:20px;
+         border-radius:20px;
+         color:black;
+
+
+
+         } 
+
+         .rightdiv 
+
+         { 
+         float:left;
+         background-color:#A9A9A9;
+         padding:1%;
+         height:500px; 
+         width:300px;
+         margin-left:10px;
+         margin-bottom:40px;
+         margin-top:20px;
+         margin-right:30px;
+         border-radius:20px;
+         color:black;
+
+
+
+         } 
+
+         div{ 
+
+         padding : 1%; 
+
+         color: white; 
+
+         background-color: 009900; 
+
+         width: 30%; 
+
+         border: wheat; 
+
+         } 
+       .left1div 
+
+         { 
+         float:left;
+         background-color:#A9A9A9;
+         padding: 1%;
+         height:600px; 
+         width:300px;
+         margin-left:120px;
+         margin-bottom:40px;
+         margin-top:20px;
+         margin-right:30px;
+         border-radius:20px;
+         color:black;
+
+         } 
+        .middle1div 
+
+         {  
+         float:left;
+         background-color:#A9A9A9;
+         padding:1%;
+         height:600px; 
+         width:300px;
+         margin-left:10px;
+         margin-bottom:40px;
+         margin-top:20px;
+         margin-right:20px;
+         border-radius:20px;
+         color:black;
+
+
+
+         } 
+        .right1div 
+
+         { 
+         float:left;
+         background-color:#90EE90;
+         padding:1%;
+         height:600px; 
+         width:300px;
+         margin-left:10px;
+         margin-bottom:40px;
+         margin-top:20px;
+         margin-right:30px;
+         border-radius:20px;
+         color:black;
+
+      </style> 
+
+   </head> 
+
+   <body> 
+
+      <div class="leftdiv"> 
+
+         <h1>SHERBET</h1> 
+
+         <p><font face = "cursive"><strong>
+
+      </font></strong>
+      </p> <br>
+      <img src="https://3.bp.blogspot.com/-8SKYemaI3Xg/WD2G29_vyII/AAAAAAAAP84/zAoGawDO_akqsJM_I4oy9tW0498HIoiUQCLcB/s1600/Watermelon%2BSherbet.jpg" width="300" height="300">
+
+      </div> 
+
+      <div class="middlediv"> 
+
+         <h1><strong>DONDURMA<strong></h1> 
+         <p><font face = "cursive">
+        </font> </p><br>
+       <img src="https://i.pinimg.com/originals/10/04/43/1004436ff5c3c8e53cef04f5e1960d7a.jpg" width="300" height="300">
+
+      </div> 
+
+      <div class="rightdiv"> 
+
+         <h1>KULFI</h1> 
+
+        </font> </p> <br>
+          <img src="https://i.pinimg.com/originals/85/88/00/85880084f1815caa92bb8ba301798e8c.jpg" width="300" height="300">
+
+      </div> 
+ <div class="leftdiv"> 
+
+         <h1>MATCHA</h1> 
+
+         <p><font face = "cursive"><strong>
+
+      </font></strong>
+      </p> <br>
+      <img src="https://www.scmp.com/sites/default/files/2014/06/19/07039ffd0028fd8078bab1b36d42ca14.jpg" width="300" height="300">
+
+      </div> 
+ <div class="middlediv"> 
+
+         <h1><strong>YOGHURT<strong></h1> 
+         <p><font face = "cursive">
+        </font> </p><br>
+       <img src="https://tse2.mm.bing.net/th?id=OIP.2jSQ6Q1zdtRQoDUbe5IKpAHaJ4&pid=Api&P=0&w=300&h=300" width="300" height="300">
+
+      </div> 
+  <div class="rightdiv"> 
+
+         <h1>GELETO</h1> 
+
+        </font> </p> <br>
+          <img src="http://1.bp.blogspot.com/-TO38BfTC11k/UEPTsGs7UoI/AAAAAAAAHXI/Pvu4d5AYPis/s1600/IMG_7599.JPG" width="300" height="300">
+
+      </div> 
+ <div class="leftdiv"> 
+
+         <h1>HACKLEBERRY</h1> 
+
+         <p><font face = "cursive"><strong>
+
+      </font></strong>
+      </p> <br>
+      <img src="https://3.bp.blogspot.com/_vWItWhIZIKc/TILaTj-Yi9I/AAAAAAAACGw/jsGgqoYCEEs/s1600/Huckleberry+Chocolate+Praline+Ice+Cream+005.jpg" width="300" height="300">
+
+      </div> 
+
+      <div class="middlediv"> 
+
+         <h1><strong>NEAPOLITON<strong></h1> 
+         <p><font face = "cursive">
+        </font> </p><br>
+       <img src="http://iv1.lisimg.com/image/8277718/600full-neapolitan-ice-cream.jpg" width="300" height="300">
+
+      </div> 
+
+      <div class="rightdiv"> 
+
+         <h1>ESKIMO</h1> 
+
+        </font> </p> <br>
+          <img src="https://1.bp.blogspot.com/-G1vFRkShQKw/TdMnSt8qkEI/AAAAAAAAAcI/s4P164FtaW0/s1600/DSC_0053.JPG" width="300" height="300">
+
+      </div> 
+ </div> 
+ <div class="leftdiv"> 
+
+         <h1>SUNDAE</h1> 
+
+         <p><font face = "cursive"><strong>
+
+      </font></strong>
+      </p> <br>
+      <img src="https://static6.businessinsider.com/image/58ff92c2dd089528218b46da-1190-625/a-place-in-miami-makes-an-ice-cream-sundae-with-24-scoops.jpg" width="300" height="300">
+
+      </div> 
+
+      <div class="middlediv"> 
+
+         <h1><strong>PEPPERNUT<strong></h1> 
+         <p><font face = "cursive">
+        </font> </p><br>
+       <img src="https://veryvera.wierstewarthosting.com/wp-content/uploads/2016/12/16062111/ice-cream.jpg" width="300" height="300">
+
+      </div> 
+
+      <div class="rightdiv"> 
+
+         <h1>LICORICE</h1> 
+
+        </font> </p> <br>
+          <img src="https://tse1.mm.bing.net/th?id=OIP.G2PiW1dWYTDmtvzT6ZAkvwHaE8&pid=Api&P=0&w=247&h=165" width="300" height="300">
+
+      </div> 
+
+   </body> 
+
+</html>
